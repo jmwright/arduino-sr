@@ -1,0 +1,9 @@
+{
+  "name": "level1",
+  "version": "1.0.0",
+  "description": "Sliderule DOF component.",
+  "license": "(Unlicense AND NotASourceLicense AND CC0-1.0 AND NotADocLicense)",
+  "dependencies": {
+  }
+}
+

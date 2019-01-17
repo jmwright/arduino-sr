@@ -1,0 +1,7 @@
+{
+  "name": "arduino-sr",
+  "version": "1.0.0",
+  "description": "Sliderule DOF component.",
+  "license": "(Unlicense AND NotASourceLicense AND CC0-1.0 AND CC-BY-4.0 AND NotADocLicense)",
+  "dependencies": {}
+}
