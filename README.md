@@ -1,4 +1,4 @@
-# arduino-sr 
+# arduino-sr
 Arduino - Sliderule component.
 
 ---
